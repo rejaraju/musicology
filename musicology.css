@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+#Header{
+    width: 100%;
+    float:left;
+
+}
+.container{
+    width: 90%;
+    margin: auto;
+    /* background-color: blue; */
+
+}
+.Logo-part{
+    width: 33.33%;
+    float: left;
+    background-color: rgb(165, 163, 21);
+
+}
+.Manu-part{
+    width: 33.33%;
+    float: left;
+    background-color: aqua;
+
+
+}
+.Manu-part ul{
+
+}
+.Manu-part li{
+
+}
+.Manu-part a{
+
+}
+.search-part{
+    width: 33.33%;
+    float: left;
+    background-color: brown;
+
+
+}
+.search-part i{
+
+}
+#Hero{
+    width: 100%;
+    float: left;
+    background-image: url(../html/image/Capture.PNG);
+    padding: 100px 0px;
+    background-size: cover;
+    background-position: center;
+
+}
+#Hero-writing-part h1{
+
+}
+.Hero-writing-part p{
+      width: 550px;;
+      
+
+}
+.Hero-writing-part button{
+
+}
+
